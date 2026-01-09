@@ -14,7 +14,7 @@ Concevoir une base de données relationnelle, charger les données, puis rédige
 
 ## Outils
 - SQL
-- SQLite / MySQL / PostgreSQL (au choix)
+- SQLite
 - SQL Power Architect (schéma relationnel)
 - Fonctions SQL : SELECT, WHERE, JOIN, GROUP BY, ORDER BY
 - Fonctions d’agrégation : COUNT, AVG, SUM, MIN, MAX
@@ -33,7 +33,7 @@ Concevoir une base de données relationnelle, charger les données, puis rédige
 - Mise en place du schéma relationnel et des contraintes  
 - Rédaction de requêtes SQL simples puis avancées (jointures, agrégations)  
 - Analyse des contrats par surface, prix, région, département et commune  
-- Production d’un support de présentation synthétisant la méthodologie, les requêtes et les résultats  
+- Rédaction d’un support de présentation synthétisant la méthodologie, les requêtes SQL et les résultats  
 
 ## Résultat
-Une base de données fonctionnelle et un ensemble de requêtes SQL permettant d’obtenir des indicateurs fiables sur les contrats d’assurance habitation, présentés dans un support clair et structuré à destination d’un public métier.
+Une base de données fonctionnelle et un ensemble de requêtes SQL permettant d’obtenir des indicateurs fiables sur les contrats d’assurance habitation, utilisables pour l’analyse et le reporting métier.
